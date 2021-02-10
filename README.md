@@ -14,5 +14,5 @@ Example output after asking user to input 3 websites they want to generate stron
 Saved passwords for all your sites/apps
 'Amazon': 'Fz:}lDTmsHjetQT+g6:~;cgN{TyNa*T%~^ e\}$7LWPoce})<'
 'YouTube': '6+)siPoti)rD(-Vq\[YlSUfV'
-'Spotify': '|9`2:$YdQrtIb#z-T|_SE..'9Vf#{\{E($DGw,{zxi-pw GqH+q eu]S>pq^);Xj%=C_EEos+(uT$r$Pmoc~3v8(XU3X\\WamVcI0,<oz/,'
+'Spotify': '|9`2:$YdQrtIb#z-T|_SE..'9Vf#{\{E($DGw,{zxi-pw GqH+q eu]S>pq^);Xj%=C_EEos+(uT$r$Pmoc~3v8(XU3X\\WamVcI0,<\oz/,'
     
